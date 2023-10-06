@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @GreysonStalcup
-- 👀 I’m interested in React, JS, and Node.js - Specifically RESTful API's. 
-- 🌱 I’m currently learning NextJS 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [Linktr.ee](https://linktr.ee/greysonstalcup)
 
 <!---
 GreysonStalcup/GreysonStalcup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
